@@ -98,6 +98,13 @@
     "run2_confidence": 100.0
   },
   {
+    "id": "Q0015",
+    "run2_initial_answer": "D",
+    "run2_initial_confidence": 100.0,
+    "run2_answer": "D",
+    "run2_confidence": 100.0
+  },
+  {
     "id": "Q0016",
     "run2_initial_answer": "B",
     "run2_initial_confidence": 95.0,
@@ -278,6 +285,13 @@
     "run2_initial_confidence": 99.0,
     "run2_answer": "D",
     "run2_confidence": 100.0
+  },
+  {
+    "id": "Q0042",
+    "run2_initial_answer": "C",
+    "run2_initial_confidence": 95.0,
+    "run2_answer": "C",
+    "run2_confidence": 98.0
   },
   {
     "id": "Q0043",
@@ -516,6 +530,13 @@
     "run2_initial_confidence": 98.0,
     "run2_answer": "B",
     "run2_confidence": 99.0
+  },
+  {
+    "id": "Q0079",
+    "run2_initial_answer": "D",
+    "run2_initial_confidence": 100.0,
+    "run2_answer": "D",
+    "run2_confidence": 100.0
   },
   {
     "id": "Q0080",

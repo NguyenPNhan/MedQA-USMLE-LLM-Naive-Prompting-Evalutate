@@ -2,4 +2,4 @@
 - Finish Run 1 for GPT 5.5
 
 15/6:
-- 
+- Finish collecting data for GPT 5.2, 5.4, 5.5.
